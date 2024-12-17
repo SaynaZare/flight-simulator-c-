@@ -1,0 +1,15 @@
+C:\Users\saina\OneDrive - University of South Wales\year2\programming\CourseWork2\bin\Debug\CourseWork2.exe.config
+C:\Users\saina\OneDrive - University of South Wales\year2\programming\CourseWork2\bin\Debug\CourseWork2.exe
+C:\Users\saina\OneDrive - University of South Wales\year2\programming\CourseWork2\bin\Debug\CourseWork2.pdb
+C:\Users\saina\OneDrive - University of South Wales\year2\programming\CourseWork2\obj\Debug\CourseWork2.csproj.AssemblyReference.cache
+C:\Users\saina\OneDrive - University of South Wales\year2\programming\CourseWork2\obj\Debug\CourseWork2.Form1.resources
+C:\Users\saina\OneDrive - University of South Wales\year2\programming\CourseWork2\obj\Debug\CourseWork2.Properties.Resources.resources
+C:\Users\saina\OneDrive - University of South Wales\year2\programming\CourseWork2\obj\Debug\CourseWork2.csproj.GenerateResource.cache
+C:\Users\saina\OneDrive - University of South Wales\year2\programming\CourseWork2\obj\Debug\CourseWork2.csproj.CoreCompileInputs.cache
+C:\Users\saina\OneDrive - University of South Wales\year2\programming\CourseWork2\obj\Debug\CourseWork2.exe
+C:\Users\saina\OneDrive - University of South Wales\year2\programming\CourseWork2\obj\Debug\CourseWork2.pdb
+C:\Users\saina\OneDrive - University of South Wales\year2\programming\CourseWork2\bin\Debug\MetroFramework.dll
+C:\Users\saina\OneDrive - University of South Wales\year2\programming\CourseWork2\obj\Debug\CourseWo.14C23E7E.Up2Date
+C:\Users\saina\OneDrive - University of South Wales\year2\programming\CourseWork2\bin\Debug\Guna.UI2.dll
+C:\Users\saina\OneDrive - University of South Wales\year2\programming\CourseWork2\bin\Debug\MaterialSkin.dll
+C:\Users\saina\OneDrive - University of South Wales\year2\programming\CourseWork2\bin\Debug\MetroFramework.Fonts.dll
